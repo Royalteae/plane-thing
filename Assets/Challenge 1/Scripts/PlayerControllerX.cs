@@ -6,7 +6,7 @@ public class PlayerControllerX : MonoBehaviour
 {
     public float speed;
     public float rotationSpeed;
-    public float verticalInput = 0.0f;
+    public float verticalInput;
    
 
     // Start is called before the first frame update
